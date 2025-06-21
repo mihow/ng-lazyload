@@ -1,3 +1,5 @@
+_This code was restored from an archived copy. The origin is no longer available: https://github.com/danmasta/ngLazyload/_
+
 # ngLazyload
 
 Angular module for lazyloading images in your applications. Some of goals of this project worth noting include:
